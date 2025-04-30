@@ -7,7 +7,7 @@ Sobre mim:
 - 🌱 Atualmente estou aprimorando no AWS 
 - 🏠 Atualmente moro na Espanha
 - 📫 Como entrar em contato comigo: data.mayconj@gmail.com
-- 🤔 Procuro ajuda com Databricks 
+- 🤔 Procuro ajuda com Warehouse
 <br>
 
 Principais Ferramentas:
